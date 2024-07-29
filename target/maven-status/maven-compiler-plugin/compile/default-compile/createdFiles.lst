@@ -1,1 +1,5 @@
+testng\test\DataProviders.class
+testng\test\DataProviderImplementation.class
+testng\test\Assertion.class
 testng\test\TestNGDemo.class
+testng\test\TestNGParamemeterization.class
