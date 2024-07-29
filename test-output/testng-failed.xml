@@ -5,7 +5,6 @@
     <classes>
       <class name="testng.test.Assertion">
         <methods>
-          <include name="testMethodSoftAssertion"/>
           <include name="testMethodCheckAsserEqualWithErrorMessage"/>
         </methods>
       </class> <!-- testng.test.Assertion -->
